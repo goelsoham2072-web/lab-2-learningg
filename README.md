@@ -1,1 +1,1 @@
-# lab-2-learningg
+Day 2 Hands-On Lab explores AI classification in aviation, combining Traditional AI, Generative AI, and human judgement. It covers flight-delay prediction, passenger notifications, workflow design, hallucination risks, and verification. The project highlights responsible AI use, aviation safety, and human approval for accurate passenger communication and operational decisions.
